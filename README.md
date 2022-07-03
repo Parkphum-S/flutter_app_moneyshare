@@ -1,16 +1,11 @@
 # flutter_app_moneyshare
 
-A new Flutter project.
+-👋 Hi, I’m @Parkphum-S
 
-## Getting Started
+-👀 I’m interested in Codeing
 
-This project is a starting point for a Flutter application.
+-SAU Project emergency call thailand
 
-A few resources to get you started if this is your first Flutter project:
+-S6319c10024
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://i.ibb.co/ykZD1wC/Screen-Shot-2565-07-03-at-17-26-34.png" width="250"> 
